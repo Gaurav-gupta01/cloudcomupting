@@ -1,0 +1,9 @@
+{
+  "name": "isa3-contact-form",
+  "version": "1.0.0",
+  "private": true,
+  "description": "ISA3 contact form with Vercel, Node.js serverless API and MySQL",
+  "dependencies": {
+    "mysql2": "^3.14.1"
+  }
+}
